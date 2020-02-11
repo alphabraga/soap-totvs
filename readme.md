@@ -2,7 +2,7 @@
 
 Um simples projeto para que mostra a conexão com o webservice SOAP do TOTVS RM utilizando PHP 7
 
-## Getting Started
+## Iniciando
 
 * Baixe o projeto
 * Execute `composer install`
